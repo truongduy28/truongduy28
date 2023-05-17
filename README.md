@@ -6,7 +6,7 @@
 I am currently learning Sorfware engineer from Can Tho University of Technology
 
 
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning: React Native, NextJS
 - 👯 I’m looking to collaborate on Website Related Projetcs, Front-end Projects with React library
 - 📫 How to reach me: truongduy.vithanhcity@gmail.com, truongduy.dev@gmail.com
