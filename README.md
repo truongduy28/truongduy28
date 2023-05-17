@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Truong Duy
+## Hi there 👋, my name is Truong Duy
 
 <h3 >I'am Full Stack Web developer and Mobile Developer</h3>
 
